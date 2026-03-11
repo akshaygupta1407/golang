@@ -11,9 +11,3 @@ func main() {
 
 	fmt.Printf("%v %.2f %v %q\n", smsSendingLimit, costPerSMS, hasPermission, username)
 }
-
-
-/*
-Assignment
-Initialize the variables from the print statement to int, float64, bool and string with their zero values, respectively.
-*/
